@@ -4,6 +4,12 @@ A full-stack hospital management system built with React (Vite) + Node.js/Expres
 
 ---
 
+## 🌐 Live Deployment
+- **Frontend (Vercel):** [https://medi-mitra-pi.vercel.app](https://medi-mitra-pi.vercel.app)
+- **Backend API (Render):** [https://medimitra-2-5by8.onrender.com](https://medimitra-2-5by8.onrender.com)
+
+---
+
 ## 📁 Project Structure
 
 ```
